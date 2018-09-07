@@ -1,0 +1,2 @@
+./opencv_example --scale=2 --cascade="/home/alec/Desktop/opencv-haar-classifier-training/old_cascade_xmls/cascade_stage_2.xml" 
+
